@@ -12,9 +12,6 @@ text == "Text, ha ha" # Will return `True`. It compares the un-translated text s
 text.MorseValue == "Text, ha ha" # Will return `False`. It compares the encoded value stored in `text` to the other string.
 ```
 
-
-***
-
 ## Example
 
 ```py
